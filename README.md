@@ -30,7 +30,15 @@ Chat Rapidex is a simple, fast, and user-friendly chat application that provides
    cd frontend 
    npm install 
    ```
-   ##### 2. start the project:
+
+   ##### 2. Setup Environment Variables:
+   - make a file config.env in backend folder and paste these basic details, these are general details you can change it 
+   ```
+    PORT = 3001
+    CONN = "mongodb://127.0.0.1:27017/chatrapidex"
+    JWT_SECRET = uygfdcuyrget6ryuihejuifwhyuifwjecduihrygiwehfryhiwejuhfryg
+   ```
+   ##### 3. start the project:
    ```bash
    cd backend
    nodemon app.js
