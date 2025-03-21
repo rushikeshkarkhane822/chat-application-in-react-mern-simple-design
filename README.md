@@ -23,7 +23,7 @@ Chat Rapidex is a simple, fast, and user-friendly chat application that provides
   ##### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rushikeshkarkhane822/chat-application-in-react-nodejs-mern-stack.git
+   git clone https://github.com/rushikeshkarkhane822/chat-application-in-react-mern-simple-design
    cd chat-application-in-react-nodejs-mern-stack
    cd backend
    npm install
